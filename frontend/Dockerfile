@@ -1,6 +1,4 @@
-# cartMicroService
 #This dockerfile for cart frontend
-
 #DOCKERCOMMAND Options
 FROM index.docker.io/centos:7
 MAINTAINER mohanraz@gmail.com
